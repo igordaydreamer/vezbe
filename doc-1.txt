@@ -1,3 +1,5 @@
-prvi red-------promenjen u B1
-drugi red-------promenjen u B1
-treci red-------promenjen u B1
+prvi red    	
+
+drugi red    		
+
+treci red
